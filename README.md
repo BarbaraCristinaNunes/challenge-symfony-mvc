@@ -44,3 +44,7 @@ I installed [Symfony](https://symfony.com/download) using the following code:
 > gofish rig add https://github.com/symfony-cli/fish-food
 
 >gofish install github.com/symfony-cli/fish-food/symfony-cli
+
+### Create Symfony project
+
+> symfony new MY_PROJECT_NAME
